@@ -1,0 +1,8 @@
+{
+  "name": "Test Mobile App AMC",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "bfd16aac"
+}
